@@ -1,11 +1,5 @@
 # COMP3009 - 大数据导论
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![大作业40%](https://img.shields.io/badge/大作业-40%25-wheat)
-![小作业30%](https://img.shields.io/badge/小作业-30%25-wheat)
-![实验30%](https://img.shields.io/badge/实验-30%25-wheat)
 
 大数据导论课程资料。
 
